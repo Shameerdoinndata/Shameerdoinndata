@@ -1,73 +1,65 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=DATA%20ANALYST&fontSize=48&fontAlign=50&fontColor=ffffff&animation=fadeIn&color=0:0f2027,100:2c5364"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DATA%20ANALYST&fontSize=46&fontAlign=50&fontColor=ffffff&animation=fadeIn&color=0:0f2027,100:2c5364"/>
 </p>
 
-<h2 align="center">📊 Turning Data into Decisions | Insights into Impact</h2>
+<h2 align="center">📊 Data Analyst | Turning Data into Business Insights</h2>
 
 <p align="center">
-  <i>Exploratory Analysis • Data Storytelling • Business Intelligence</i>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploratory+Data+Analysis;Data+Storytelling;Insight+Driven+Decisions;Business+Intelligence;Analytical+Thinking&center=true&width=550&height=45">
+  <i>Excel • SQL • Python • Power BI • Data Storytelling</i>
 </p>
 
 ---
 
-<!-- ================= SOCIAL ================= -->
+<!-- ================= CONTACT ================= -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:samdoinndev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/samisdoinnn/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Samisdoinnn"><img src="https://img.shields.io/badge/GitHub-Projects-000000?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
-
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f2027,100:2c5364"/>
-</p>
 
 ## 🧠 Professional Summary
 
-A results-oriented Data Analyst with a strong foundation in extracting actionable insights from complex datasets.  
-Experienced in applying structured analytical approaches to uncover trends, optimize processes, and support data-driven decision-making.
+Data Analyst with hands-on experience in **Excel, SQL, Python, and BI tools**, focused on transforming raw data into actionable insights.
 
-Known for the ability to:
-- Simplify complex data into **clear, strategic insights**
-- Combine analysis with **business context**
-- Build visual narratives that **drive action, not just observation**
+Skilled in:
+- Cleaning and structuring large datasets  
+- Performing exploratory data analysis (EDA)  
+- Building dashboards to track KPIs and performance  
+- Translating business questions into data-driven solutions  
 
----
-
-## 🎯 Core Value Proposition
-
-🔹 Transform raw datasets into **decision-ready intelligence**  
-🔹 Perform deep **exploratory data analysis (EDA)** to uncover hidden patterns  
-🔹 Design dashboards that **communicate insights effectively**  
-🔹 Ensure data accuracy through **robust cleaning & preprocessing**  
+Strong ability to communicate insights clearly to both technical and non-technical stakeholders.
 
 ---
 
-## ⚡ Analytical Skill Matrix
-Data Cleaning & Preparation ▰▰▰▰▰▰▰▰▱▱
-Exploratory Data Analysis ▰▰▰▰▰▰▰▰▰▱
-Data Visualization ▰▰▰▰▰▰▰▰▰▱
-SQL & Querying ▰▰▰▰▰▰▰▱▱▱
-Statistical Analysis ▰▰▰▰▰▰▱▱▱▱
-Business Insight Generation ▰▰▰▰▰▰▰▰▱▱
+## 🎯 Key Achievements
+
+✔ Improved reporting efficiency by **45%** through Excel optimization and advanced Pivot Table logic  
+✔ Built **interactive dashboards** using Power BI/Tableau for KPI tracking and trend analysis  
+✔ Automated analysis workflows using Python (Pandas, NumPy, Matplotlib)  
+
 ---
+
+## ⚡ Core Skills
+Data Cleaning & Preparation             ▰▰▰▰▰▰▰▰▱▱
+Exploratory Data Analysis               ▰▰▰▰▰▰▰▰▱▱
+Data Visualization                      ▰▰▰▰▰▰▰▰▰▱
+SQL & Querying                          ▰▰▰▰▰▰▰▱▱▱
+Excel & Reporting                       ▰▰▰▰▰▰▰▰▰▱
+---
+
 ## 🧰 Data Toolkit
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql" /><br><br>
 
-<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-white?style=flat"/>
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-9cf?style=flat"/>
 <br><br>
 <img src="https://img.shields.io/badge/PowerBI-Dashboarding-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-Visual%20Analytics-E97627?style=flat&logo=tableau&logoColor=white"/>
@@ -76,62 +68,37 @@ Business Insight Generation ▰▰▰▰▰▰▰▰▱▱
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
-</p>
+## 🚀 Data Projects & Work
+
+### 📊 Excel Reporting Optimization  
+→ Improved reporting efficiency by 45% using advanced formulas, Pivot Tables, and structured aggregation  
+
+### 📈 KPI Dashboard Development  
+→ Built interactive dashboards in Power BI/Tableau to track performance metrics and trends  
+
+### 🧮 Python Data Analysis  
+→ Automated data exploration and visualization using Pandas, NumPy, and Matplotlib  
 
 ---
 
-## 🚀 Featured Analytics Work
-
-### 📊 Sales Performance Analysis  
-→ Conducted in-depth analysis to identify revenue trends and key growth drivers  
-
-### 👥 Customer Segmentation  
-→ Applied analytical techniques to classify users based on behavioral patterns  
-
-### 📈 Dashboard Development  
-→ Designed intuitive dashboards to communicate insights to stakeholders  
-
----
-
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samisdoinnn&theme=tokyonight&show_icons=true&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-📌 Strengthening real-world analytical problem solving  
-📌 Enhancing data storytelling & visualization depth  
-📌 Working with large-scale datasets for practical insights  
+- Strengthening real-world data analysis projects  
+- Improving dashboard design & storytelling  
+- Working with larger datasets for deeper insights  
 
 ---
 
 ## 💡 Philosophy
 
 <p align="center">
-  <i>"Data is not valuable until it becomes understandable, and not powerful until it drives decisions."</i>
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue"/>
+  <i>"Good analysis explains the past. Great analysis shapes the future."</i>
 </p>

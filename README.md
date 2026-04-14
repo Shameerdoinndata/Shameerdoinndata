@@ -1,24 +1,24 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=DATA%20ANALYST&fontSize=44&fontAlign=50&fontColor=ffffff&animation=fadeIn&color=0:0f2027,100:2c5364"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=DATA%20ANALYST&fontSize=46&fontAlign=50&fontColor=ffffff&animation=fadeIn&color=0:0f2027,100:2c5364"/>
 </p>
 
 <p align="center">
-  <b>Transforming Data into Insights • Insights into Decisions</b><br>
+  <b>Transforming Data into Strategic Insights</b><br>
   <sub>Data Analysis • Visualization • Business Intelligence</sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis;Exploratory+Data+Analysis;Data+Visualization;Insight+Driven+Decisions&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploratory+Data+Analysis;Data+Storytelling;Insight+Driven+Decisions;Business+Intelligence&center=true&width=520&height=45">
 </p>
 
 ---
 
 <!-- ================= SOCIAL ================= -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail"/></a>
 </p>
 
 ---
@@ -31,29 +31,31 @@
 <!-- ================= ABOUT ================= -->
 ## 🧠 ABOUT
 
-A data analyst dedicated to uncovering meaningful patterns from data and translating them into actionable insights.  
-Focused on solving business problems through structured analysis, visualization, and data storytelling.
+I am a data analyst focused on uncovering patterns, trends, and insights hidden within data.  
+My approach combines analytical thinking with structured methodologies to transform raw datasets into meaningful, decision-ready information.
+
+I don’t just analyze data — I **interpret it, simplify it, and make it useful**.
 
 ---
 
 <!-- ================= VALUE ================= -->
-## 🎯 VALUE I DELIVER
+## 🎯 WHAT MAKES MY WORK DIFFERENT
 
-- 📊 Turn raw data into **clear business insights**  
-- 📈 Perform deep **exploratory data analysis (EDA)**  
-- 📉 Build dashboards for **decision-making clarity**  
-- 🧹 Clean and structure complex datasets  
+- 📊 I prioritize **clarity over complexity** in every analysis  
+- 📈 I focus on **business-relevant insights**, not just numbers  
+- 📉 I design dashboards that **tell a story, not just display data**  
+- 🧹 I handle data preprocessing with precision to ensure **accuracy and reliability**  
 
 ---
 
 <!-- ================= SKILLS ================= -->
-## ⚡ CORE SKILLS
-Data Cleaning ▰▰▰▰▰▰▰▰▱▱
-EDA & Insights ▰▰▰▰▰▰▰▰▱▱
-Data Visualization ▰▰▰▰▰▰▰▰▰▱
-SQL Analysis ▰▰▰▰▰▰▰▱▱▱
-Statistical Thinking ▰▰▰▰▰▰▱▱▱▱
+## ⚡ CORE ANALYTICAL STRENGTHS
 
+Data Cleaning & Preparation ▰▰▰▰▰▰▰▰▱▱
+Exploratory Data Analysis ▰▰▰▰▰▰▰▰▰▱
+Data Visualization ▰▰▰▰▰▰▰▰▰▱
+SQL & Data Querying ▰▰▰▰▰▰▰▱▱▱
+Statistical Reasoning ▰▰▰▰▰▰▱▱▱▱
 ---
 
 <!-- ================= TOOLS ================= -->
@@ -77,27 +79,27 @@ Statistical Thinking ▰▰▰▰▰▰▱▱▱▱
 
 <!-- ================= VISUAL ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
 </p>
 
 ---
 
 <!-- ================= PROJECTS ================= -->
-## 🚀 DATA PROJECTS
+## 🚀 FEATURED ANALYTICS WORK
 
-### 📊 Sales Analysis  
-→ Identified revenue trends and key performance drivers  
+### 📊 Sales Performance Analysis  
+→ Explored structured datasets to uncover revenue patterns and performance trends  
 
-### 👥 Customer Segmentation  
-→ Grouped users to improve targeting strategies  
+### 👥 Customer Segmentation Study  
+→ Applied analytical techniques to identify user behavior clusters  
 
-### 📈 Dashboard Development  
-→ Built dashboards to simplify complex datasets  
+### 📈 Interactive Dashboard Design  
+→ Developed visual dashboards for clear and effective data storytelling  
 
 ---
 
 <!-- ================= STATS ================= -->
-## 📊 GITHUB PERFORMANCE
+## 📊 GITHUB INSIGHTS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
@@ -109,9 +111,18 @@ Statistical Thinking ▰▰▰▰▰▰▱▱▱▱
 
 ---
 
+<!-- ================= FOCUS ================= -->
+## 🎯 CURRENT DIRECTION
+
+- Deepening expertise in **exploratory data analysis**  
+- Enhancing **data visualization & storytelling techniques**  
+- Working with **real-world datasets for practical insights**  
+
+---
+
 <!-- ================= QUOTE ================= -->
 <p align="center">
-  <i>"Without data, you're just another person with an opinion."</i>
+  <i>"Data becomes powerful when it tells a story that drives action."</i>
 </p>
 
 ---
